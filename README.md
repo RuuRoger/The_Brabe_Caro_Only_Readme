@@ -1,5 +1,10 @@
 # THE BRAVE CARO 🎮🍄
 
+<div align="center">
+   <h1><a href="https://ruuroger.itch.io/the-brave-caro">Play on itch.io 🎮</a></h1>
+</div>
+
+
 A captivating **2D platformer** where players take on the role of a **small but brave mushroom**. Navigate through a series of **ingeniously designed levels**, each presenting **challenges** that will test your jumping and puzzle-solving skills.
 
 Developed with **Unity**, this project aims to deliver a fun and challenging experience, combining classic platforming mechanics with a charming visual style.
